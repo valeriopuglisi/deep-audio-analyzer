@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  frontend:
+    image: nginx:latest
+    ports:
+      - 8080:80
+    build: audio-fe/
+    environment:
+      - AUDIO_BE_URI=audio-be:5000
+        

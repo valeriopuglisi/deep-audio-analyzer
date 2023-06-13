@@ -1,0 +1,6 @@
+[submodule "audio-fe"]
+	path = audio-fe
+	url = git@github.com:valeriopuglisi/audio-fe.git
+[submodule "audio-be"]
+	path = audio-be
+	url = git@github.com:valeriopuglisi/audio-be.git
