@@ -4,3 +4,6 @@
 [submodule "audio-be"]
 	path = audio-be
 	url = git@github.com:valeriopuglisi/audio-be.git
+[submodule "deep-audio-analyzer-tests"]
+	path = deep-audio-analyzer-tests
+	url = git@github.com:valeriopuglisi/deep-audio-analyzer-tests.git
